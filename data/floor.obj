@@ -1,0 +1,9 @@
+v -5 -5 0
+v 5 -5 0
+v -5 5 0
+v 5 5 0
+
+# CCW winding of bottom left triangle
+f 1 2 3 
+# CCW winding of top right triangle
+f 2 4 3
